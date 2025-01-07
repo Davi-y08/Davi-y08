@@ -1,4 +1,4 @@
-### Hello! My name is Elton Davi, i have 16y 👋
+### Hello! My name is Elton Davi, i have 16y and i'm Brazillian👋
 ### 🫡 About me: 
 ------
 😀 Currently I study Systems Development at Etec in Praia Grande, and I have a great desire to program;
