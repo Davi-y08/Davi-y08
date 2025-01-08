@@ -1,5 +1,5 @@
 ### Hello! My name is Elton Davi, i have 16y and i'm Brazillian👋
-### 🫡 About me: |  ![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fanime-307%2F&psig=AOvVaw3B0bsMJA5A4qE9QKAHXYEw&ust=1736432649414000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCvqOWp5ooDFQAAAAAdAAAAABAw)
+### 🫡 About me: |  ![Alt Text](https://tenor.com/pt-BR/view/military-dancing-respect-gif-21421474)
 ------
 😀 Currently I study Systems Development at Etec in Praia Grande, and I have a great desire to program;
 
