@@ -28,6 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -49,8 +50,11 @@
 
 ### Stats: 
 
---------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syzenzzw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=syzenzzw&theme=blue-green)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syzenzzw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=syzenzzw&theme=blue-green)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=syzenzzw)](https://git.io/streak-stats)
 
 
