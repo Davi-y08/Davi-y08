@@ -51,7 +51,7 @@
 ### Stats: 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-y08w&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-y08&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=syzenzzw&theme=blue-green)
 
