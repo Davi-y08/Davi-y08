@@ -53,8 +53,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-y08&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=syzenzzw&theme=blue-green)
+[![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-y08&theme=blue-green)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=syzenzzw)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Davi-y08)](https://git.io/streak-stats)
 
 
