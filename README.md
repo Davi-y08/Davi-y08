@@ -7,5 +7,10 @@
 
 ⭐ I'm currently developing a back-end project with ASP.NET Core, but I intend to delve deeper into more languages ​​and tools
 
+---------
+
+# :hammer: Skills and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,java,javascript,visualstudio,vscode,idea,figma,css,php,powershell,ts,react,md,html,git,github,gmail,discord,bash&perline=7)](https://skill-icons-builder.vercel.app/)
 
 
